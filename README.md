@@ -7,10 +7,10 @@
 cargo run --release
 ```
 
-Run the tests with:
+The binary is written to `target/release/goodbye` (`goodbye.exe` on Windows).
+
+## Test
 
 ```sh
 cargo test
 ```
-
-The binary is written to `target/release/goodbye` (`goodbye.exe` on Windows).
